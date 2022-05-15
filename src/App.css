@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-family: "Inter", sans-serif;
+}
+.App {
+  text-align: center;
+  width: 800px;
+  border: solid 1px black;
+  margin: auto;
+}
+
+.nav-header {
+  display: flex;
+  background-color: #f55a5a;
+  width: 600px;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  height: 75px;
+}
+
+.icon-nav {
+  margin-right: 5px;
+}
+
+.icon-location {
+  padding-right: 5px;
+}
+
+.view-maps {
+  margin-left: 10px;
+  color: #918e9b;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 470px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.div-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-img {
+  height: 180px;
+  width: 140px;
+  left: 40px;
+  top: 100px;
+  border-radius: 5px;
+}
+
+.location-desc {
+  margin-top: 10px;
+  margin-left: 20px;
+  text-align: left;
+  font-size: 14px;
+}
